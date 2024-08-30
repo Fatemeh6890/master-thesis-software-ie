@@ -1,0 +1,131 @@
+The source code is available under the GNU GPLv 3 at https://github.com/i-git/FIMTrack and pre - compiled binaries for Windows and Mac are available at http://fim.uni-muenster.de .
+FIMTrack is freely available as a pre - built binary package for Windows and Mac at http://fim.uni-muenster.de .
+The source code of FIMTrack is licensed under the GNU GPLv 3 and can be obtained from https://github.com/i-git/FIMTrack .
+At present Chaste can only be used with Linux , although it works well via a Linux virtual machine ( using software such as VirtualBox ) on a host running Microsoft Windows or Mac OS X .
+AlignerBoost is implemented as a uniform Java application and is freely available at https://github.com/Grice-Lab/AlignerBoost .
+COBRAme is written in Python and extends the widely used COBRApy software that only supports M - models [18] .
+Availability : Strawberry is written in C + + 14 , and is available as open source software at https://github.com/ruolin/strawberry under the MIT license .
+Strawberry was written in C + + 14 and utilizes features such as threading library for parallelization .
+Strawberry is available as a free software at https://github.com/ruolin/strawberry under the MIT license .
+Here , we present a new open - source software , Microscopy Image Browser ( MIB ) [9] , that was designed for , but not limited to , easy and effective segmentation of multidimensional datasets , improving and facilitating the full utilization and quantitation of acquired data .
+The cross - platform Python source code ( released under the GPL 3.0 license ) , documentation , issue tracking , and a pre - configured virtual machine for IDEPI can be found at https://github.com/veg/idepi .
+IDEPI makes use of open source libraries for machine learning ( scikit - learn , scikit-learn.org/ ) , sequence alignment ( HMMER , hmmer.janelia.org/ ) , sequence manipulation ( BioPython , biopython.org ) , and parallelization ( joblib , pythonhosted.org/joblib ) , and provides a programming interface which allows users to engineer sequence features and select machine learning algorithms appropriate for their application .
+A Virtual Machine for Oracle ' s VirtualBox has also been built to provide easy access to IDEPI for users unfamiliar with the intricacies of Python package management , and is available from the main package distribution page ( http://github.com/veg/idepi/ ) .
+Motivated by the challenge presented by the tremendous computational demand associated with epistatic QTL mapping , we conducted a thorough investigation of the model developed by Xu et al . and re - implemented the model algorithm using C / C + + , resulting in the development of a web server - based tool named PEPIS ( Pipeline for estimating EPIStatic genetic effects ) .
+FamSeq is a free software package under GNU license ( GPL v 3 ) , which can be downloaded from our website : http://bioinformatics.mdanderson.org/main/FamSeq , or from SourceForge : http://sourceforge.net/projects/famseq/ .
+NFTsim is distributed under the Apache 2.0 license .
+Written in C + + , NFTsim has been tested on a range of Linux distributions ( RHEL 6.9 , RHEL 7.4 , OpenSUSE 13.2 , OpenSUSE 42.2 ) .
+" Project name : Pathomx Project home page : http://pathomx.org Platform : Binaries are available for download on Windows and MacOS X .
+Installation on Linux ( Ubuntu ) is supported via PyPi .
+Source code is available . Programming language : Python 2.7 , Qt 5.2 Other requirements : Package binary contains all requirements License : GNU GPL v 3.0 Any restrictions to use by non - academics : N / A "
+" Project name : DCE @ urLAB 1.0Project home page : http://www.die.upm.es/im/archives/DCEurLAB/Operating system ( s ) : Microsoft Windows 7 / Vista / XPProgramming language : IDLOther requirements : IDL 6.4 or higher , IDL Virtual Machine 6.4 or higherLicense : BSD license "
+The web - tool can be accessed from http://www.phosphortholog.com/ using any typical web browser ( except Internet Explorer ) .
+Compatible with any modern web browser except Internet Explorer ( we tested it on Firefox v 30.0 , Chrome v 36.0 , Safari v 6.1 ) Programming language : jQuery / HTML 5 , Python / Django , R Other requirements : A VirtualBox installation ( for expansion and modification ) License : GPL Any restrictions to use by non - academics : None "
+IHC profiler is currently compatible for use with Microsoft Windows operating system .
+The code is public and available at https://github.com/batxes/4Cin with a GNU GENERAL PUBLIC LICENSE .
+The cellXpress installation packages for 64 - bit Windows and Linux , user manual , installation guide , and datasets used in this analysis can be downloaded freely from http://www.cellXpress.org .
+DriverNet is available on Bioconductor or at http://compbio.bccrc.ca/software/drivernet/ .
+The DriverNet algorithm is implemented in a publicly available R package [31] .
+The DTI images were analysed using DTV.II SR toolbox software ( Image Computing and Analysis Laboratory [ UTRAD / ICAL ] Department of Radiology , The University of Tokyo Hospital , extension of Volume 1 , package [ http://www.volume-one.org/ ] ) with the following parameters to determine the degree of sensitivity for generating DTI tracts : Fractional Anisotropy ( FA ) = 0.05 , steps = 160 ; Apparent Diffusion Coefficient ( ADC ) ( x1K ) : any ; So < 80 ; Angle : any .
+The data presented in this article represent mean ± standard deviation and were calculated using Statistical Package for the Social Sciences ( SPSS , IBM ) .
+Normalization of the data was performed in qBase 2.0 ( Biogazelle ) , with three reference genes TIP 41 , YLS 8 and SAND .
+Factorial ANOVA posthoc analyses Fisher LSD was used to evaluate significant differences between mutant and leaf age , and One - Way ANOVA to changes in gene expression with leaf age ( Statistica 7.1 , Stat Soft Inc ) .
+Analysis of Marker Gene Expression in Public Gene Expression Data : The selected marker genes used for qPCR were analyzed with the Condition Search tool “ Perturbations ” in Genevestigator https://genevestigator.com/gv/doc/intro_plant.jsp [31] .
+The stimuli were programmed on a Mac Pro computer ( Mac Pro 3.1 , Quad - Core Intel Xeon 2.8 GHz ) using Matlab Version R 2009b and Psychtoolbox [57] , [58] , and displayed using a Mitsubishi Electric colour data projector ( Model XD 400U ) back - projected onto large ( 1.48 m wide by 1.20 m high ) screen mounted on the lab wall .
+All the analyses were performed using the “ survival ” package [27] from R [28] .
+Such a procedure combines the experimenter ' s prior knowledge ( tGuess = − 1 , tGuessSd = 5.0 , beta = 3.5 , delta = 0.01 , gamma = 0.5 in QUEST software of Psychophysics Toolbox [36] ) and the observer ' s responses ( i.e. , right or left ) in past trials in choosing the signal strength for the next trial , and , in the end , estimating threshold .
+The resulting sequences were analyzed using Mothur v. 1.33.3 [12] .
+The phylogenetic tree was reconstructed using the Maximum Likelihood method implemented in MEGA v 6.0 [18] and the Tamura - Nei model with 1000 bootstraps .
+Data was processed and displayed using the online RT 2 Profiler PCR Array Data analysis 3.5 software at the sabiociences.com website ( Qiagen ) .
+Transcriptional data were evaluated using Ingenuity Pathway Analysis ( IPA , Systems Inc . , USA ) and prediction ( increase of decrease ) of biological activities occurring in the tissue was established .
+Representation and data analyses were performed with GraphPad Prism 5 software .
+fMRI movie data were preprocessed using AFNI software [42] ( http://afni.nimh.nih.gov ) .
+Cortical nodes were defined in a standard cortical surface from FreeSurfer ( fsaverage ) ( https://surfer.nmr.mgh.harvard.edu ) and resampled into a regular grid using AFNI ’ s MapIcosahedron [42,43] with 10,242 nodes in each hemisphere .
+We defined the surface searchlights [44] in PyMVPA [45] ( http://www.pymvpa.org ) as cortical disks .
+We implemented our methods and ran our analyses in PyMVPA [45] ( http://www.pymvpa.org ) unless otherwise specified .
+All preprocessing and analyses were carried out on a 64 - bit Debian 7.0 ( wheezy ) system with additional software from NeuroDebian [52] ( http://neuro.debian.net ) .
+All analyses were performed using SAS v. 9.4 ( SAS Institute Inc . Cary , NC , USA ) and a level of 0.05 was used for statistical significance .
+ENMs were developed using a maximum entropy algorithm implemented in the software MaxEnt version 3.3.3k [23] .
+First , two sets of variables were selected and then the Pearson ’ s correlation test performed with the software ENMtools v 1.3 [31] was used to ensure the lack of multicolinearity among the selected predictors [32] .
+Additionally , BIC was calculated with the software ENMtools v 1.3 [31] using the full data set .
+Online responses were exported from an integrated research platform ( Globalpark ) by Opinion Matters personnel into a survey reporting software program ( SNAP ) , and from thence were converted into an Excel spreadsheet .
+Data were preprocessed and analyzed using SPM 8 software ( Wellcome Department of Imaging Neuroscience , www.fil.ion.ucl.ac.uk/spm ) implemented in MATLAB ( Mathworks , Natick , MA ) .
+EPI time series were corrected for motion and distortion using “ Realign and Unwarp ” [31] using the generated field map together with the Fieldmap toolbox [32] provided in SPM 8 .
+The swimming path of the mice was recorded by a video camera and analyzed by the Videomot 2 software ( TSE ) .
+Protein identification , quantification , and phosphosite determination : All MS data was interpreted using the using the Spectrum Mill software package v 4.0 beta ( Agilent Technologies , Santa Clara , CA ) .
+The computer system ( acer Veriton M2610 , processor : Intel Core i3 - 2120 3.3G / 3M / 65W , memory : 4GB DDR 3 - 1066 , operating system : Microsoft Windows 7 Professional 64bit ) used by the subject was put under a desk ( 0.70 x 1.26 m , height 0.73 m ) .
+The keystroke collection software was developed using C # project built by using Visual Studio 2008 and was executed on the .
+The reason of using C # programming language in developing this software was that the language provides more sufficient Application Programming Interfaces ( APIs ) for utilizing the function of keystroke - interrupt detection in Microsoft Windows operation systems than other programming languages such as R , Matlab , Java , and Python .
+The software package Psychtoolbox - 3 ( www.psychtoolbox.org ) running on MATLAB 7.1 ( MathWorks Inc . , United States ) was used for stimulus presentation and response acquisition .
+We used Microsoft Office Excel 2010 and Stata software ( Stata / SE 13.1 ) for all analyses .
+GraphPad Prism version 6 ( GraphPad , San Diego , CA ) was used for statistical analysis .
+Depending on the course , instructor , and exam type , DE MCS students have taken exams at a regional location monitored by a paid proctor or have taken exams using commercial online proctoring services such as Remote Proctor Now from Software Secure ( http://softwaresecure.com ) or ProctorU ( http://proctoru.com ) .
+All figures were generated with the R package , ggplot 2 [32] .
+All data were analyzed using Prism 6.0f 2014 , GraphPad Software , Inc . with 95 % confidence limits .
+Households in selected clusters were mapped using Global Positioning System ( GPS ) software ( CDC GPS Sample for Windows Mobile devices https://sites.google.com/a/wolkon.com/gps-sample/ ) .
+With the GoldWave ( Version 5.58 , GoldWave Inc . , www.goldwave.com ) , all stimuli were standardized to a proper length and identical volume ( 16dB ) .
+The experiment program was conducted by the E - Prime 1.2 ( Psychology Software Tools , Inc . , Pittsburgh , PA ) .
+The obtained fMRI data were preprocessed and analyzed using the statistical parametric mapping ( SPM 8 ; Wellcome Trust Center for Imaging , London , UK ; http://www.fil.ion.ucl.ac.uk/spm ) .
+All analyses were conducted in the program R version 3.2.2 [57] , with add - on packages ‘ nlme ’ [58] for mixed effects models .
+OpenEpi ( Atlanta , GA ) [25] was used to perform t - tests and χ 2 tests of independence , and SAS version 9.2 ( Cary , NC ) was used for descriptive statistics and logistic regression modeling .
+This display was generated using the Presentation software package ( Version 16 , Neurobehavioral Systems Inc . , Albany , CA , USA ) , and was projected onto a mirror mounted in the scanner in front of the participant ’ s head .
+The behavioral data were analyzed using custom code in MATLAB ( R 2010a ; The MATHWORKS Inc . , Natick , MA , USA ) and SPSS Statistics ( PASW Statistics 18 ; IBM Corporation , Armonk , NY , USA ) .
+Functional and anatomical images were pre - processed and analyzed using BrainVoyager QX ( Version 2.3 , Brain Innovation B.V . , Maastricht , The Netherlands ) , custom code in MATLAB , and SPSS Statistics .
+All analyses were cross - sectional , and performed using Stata ( 14.0 , StataCorp LP , Tx . USA ) .
+All analyses were performed in Stata version 13.1 ( Stata Corp , Texas , USA ) .
+Confirmatory factor analysis with Mplus version 7.3 [51] was used to estimate the degree of fit for each grooming measure ( TTM , SP and NB ) .
+The SPSS PROCESS was utilized particularly to test the indirect effects of parental - absence status to suicide ideation through depression or anxiety [28] .
+Data were analysed using Stata V 13 ( StataCorp , Stata Statistical Software : Release 13 , College Station , Texas , USA ) .
+Secondly , STATISTICA 10.0 ( StatSoft , Tulsa , OK ) software was used to construct the MLP network model , the SVM model , the GPR model and the MLR model of the relationship between the identified predictors and QOL .
+All analyses were conducted using STATA 11 statistical software ( StataCorp . 2009 . Stata Statistical Software : Release 11 . College Station , TX : StataCorp LP ) .
+Statistical analysis was conducted using SPSS 21 ( IBM ) .
+A validated algorithm [14] was used to automatically classify 1 - min actigraphy epochs into active wake , sleep , or waking rest ( Respironics Actiware , Version 5.59.0015 , standard settings ) .
+To analyze time in mission effects , mixed model ANOVAs ( Proc Mixed , SAS Version 9.3 , SAS Institute Inc . , Cary , NC ) with a random intercept for crewmembers and unstructured covariance were performed with mission quarter ( MQ ) as the only explanatory variable ( MQ 1 , days 1 - 130 ; MQ 2 , days 131 - 260 ; MQ 3 , days 261 - 390 ; MQ 4 , days 391 - 520 ) and with the scores from the mood scales ( BDI - II and POMS - SF ) and visual analog scales as outcome variables .
+All statistical analyses were carried out with the use of Stata statistical software ( version 9.2 ; Stata Corporation ) .
+Both enumerators and operators used the same survey instrument , Enketo ( Ona , Nairobi , Kenya and Washington , DC , USA ) , based on the Open Data Kit platform [48] , to collect survey data .
+The data , obtained in duplicates , were analyzed using the iQ 5 Optical system software , version 2.0 ( Bio - Rad ) .
+All analyses were conducted using SAS version 9.4 ( SAS Institute Inc . , Cary , NC ) .
+Missing values were replaced using multiple imputation implemented via the mice package [36] in R .
+All data fitting were carried out using OriginLab ( Pro 8 , OriginLab Corp . , Northampton , MA ) .
+Data processing and statistical analysis : Imaging data analysis , registration , visualisation and statistical analyses were performed with the BrainVoyager QX software package ( Brain Innovation B.V . , Maastricht ; The Netherlands ) .
+Picture luminance was calculated with Adobe Photoshop CS 2 ( Adobe Systems Inc . , USA ) in 0 - 255 gray scale .
+All analyses were performed using Stata version 12.1 ( StataCorp , College Station , Texas , USA ) .
+In short , there are three advantages for illustrating our results with Pong : i ) the Pong game has a real - time two player mode , ii ) DQNs are good in Pong and iii ) the game is well - known and can be easily understood by the reader .
+D ) Statistical analysis of in vivo data : Statistical analysis was performed using GraphPad Instat software ( GraphPad Software Inc . , La Jolla , CA , USA ) .
+The nucleotide sequences ( 250 bp flanking sequences from the translation start site of each strain ’ s phenazine biosynthetic operon ) were aligned and edited using MUSCLE ( MEGA 7 ) .
+Data were processed with GraphPad Prism ( GraphPad Software , San Diego , CA ) .
+Data were analyzed using statistical software “ Statistical Package for Social Sciences ” ( SPSS ) 11.0 version .
+Statistical differences between groups were compared across conditioning and extinction sessions using the two - way repeated measures analysis of variance ( ANOVA ) test , performed with the SPSS 13.0 for Windows package ( SPSS Inc , Chicago , IL ) .
+Significant differences in heart rate and the HRV components were determined using the Mann - Whitney U - test with SPSS Statistics 22 ( IBM Corp . , Armonk , NY ) .
+The statistical analyses were performed using SPSS software ( version 19.0 ; IBM Corp , New York ) .
+We further tested the equality of Harrell ’ s C - index concordance areas of the pair - wise comparable discriminatory ability of the best - fit anthropometric measure with each of the other anthropometric measures ( six pairs ) within race - gender groups , by examining the Harrell ’ s C - index and its p value [17] with Bonferroni correction for multiple testing [18] Statistical analyses were conducted using Stata MP , Version 14.0 ( StataCorp , College Station , Texas , U.S . ) .
+STATA SE .9 software was used for all statistical analysis .
+All estimations were performed by MLwiN within STATA 12 MP ( Stata , Corp . ) and MLWiN 2.26 through runmlwin procedure [30] .
+All statistical analysis was undertaken in Stata , version 13.1 [41] .
+Data were coded using MAXQDA 2007 qualitative data analysis software [37] and were analyzed both inductively and deductively .
+Data were analyzed by means of SPSS 19.0 ( SPSS Inc . , Chicago , Ill , USA ) .
+We recruited 768 online participants on Amazon ’ s Mechanical Turk and TurkPrime [47] to “ rate 50 very brief audio clips of people laughing ” in exchange for $ 2 ( all participation occurred May 11 - 12 , 2017 ) .
+Data manipulation and descriptive analyses were conducted using STATA 11 , while multilevel models were conducted using MLwiN version 2.10 .
+Random numbers were generated through computerised block - randomisation with the SAS package ( SAS ™ Version 9.1 , SAS Institute , Inc . , Cary , NC ) by separate statistician .
+Raw data were entered into Microsoft Access using EpiInfo .
+Data analyses were performed in SPSS ( SPSS Statistics for Windows , Version 20.0 . Armonk , NY : IBM Corp ) and confirmed in R ( Version 3.0.1 , The R Foundation for Statistical Computing , Vienna , Austria ) .
+Data were analyzed by using SPSS 17.0 for Windows XP ( SPSS Inc . , Chicago , IL , USA ) .
+All analyses were conducted using SAS version 9.4 ( SAS Institute , Cary , NC ) .
+All statistical analyses were computed with the SPSS Statistical Package for Windows , version 21.0 ( Armonk , NY : IBM Corp . ) .
+Design of the primer was accomplished using NCBI Blast ( https://blast.ncbi.nlm.nih.gov/Blast.cgi ) and Primer 3 ( http://bioinfo.ut.ee/primer3-0.4.0/ ) .
+All these analyses were performed using GraphPad Prism v 7.0 ( GraphPad Software , La Jolla , CA , USA ) .
+The Open Meta - Analyst ( Center for Evidence Synthesis in Health , Brown University , Providence , RI , USA [9] ) was used for all analyses .
+All data were entered and analysed by SPSS for Windows version 16 .
+Novoalign was used to align the sequencing data to the human reference genome [ NCBI build 37 ] and the Genome Analysis Toolkit ( GATK ) [49] was used for post - processing and variant calling according to GATK Best Practices recommendations [50,51] .
+Variants were annotated using VAX [52] and mutation pathogenicity was predicted using the programs Polyphen [53] , Sift [54] , Condel [55] , and CADD [56] .
+Sequence trace files were aligned and analyzed using Geneious version 7.1.4 created by Biomatters ( http://www.geneious.com/ ) .
+Statistical analyses were performed with Prism v 5.0 ( GraphPad ) .
+Data collection : CrystalClear ( Rigaku , 2005 ) ; cell refinement : CrystalClear ; data reduction : CrystalClear ; program ( s ) used to solve structure : SHELXS 97 ( Sheldrick , 2008 ) ; program ( s ) used to refine structure : SHELXL 97 ( Sheldrick , 2008 ) ; molecular graphics : ORTEP - 3 for Windows ( Farrugia , 1997 ) and PLATON ( Spek , 2009 ) ; software used to prepare material for publication : SHELXL 97 .
+The data were analysed using SPSS Pc + statistical software ( version 18.0 ) .
+GraphPad Prism 5.0 software was used for all statistical analyses .
+All free induction decays ( FIDs ) were multiplied by an exponential function corresponding to a 0.3 Hz line - broadening factor prior to Fourier transform H - NMR spectra which were manually phased and referenced to the glucose doublet at 5.23 ppm using TopSpin 2.2 ( Bruker GmbH , Rheinstetten , Germany ) .
+Identification of the metabolites was carried out from the 1D NMR data using the software Chenomx NMR Suite 8.0 ( Chenomx Inc . , Edmonton , Canada ) and confirmed from analysis of 2D H - H TOCSY , H - C HSQC , and H J - Resolved NMR spectra recorded with standard parameters .
+Multivariate analyses were performed on NMR spectra buckets in the absence of any normalization using SIMCA - P 13 ( Umetrics , Umea , Sweden ) with Pareto scaled variables .
+A laptop computer running Matlab ( MathWorks ) and Cogent ( FIL , University College London ) was connected to the button - box via serial port , and recorded both the button - box responses by the observer and scanner sequence pulses .
+Analysis was conducted using the Mixed Models procedure in SPSS v 21 ( IBM ) .
+Statistical analysis was done using IBM SPSS Statistics for Windows Version 22.0 , Armonk , NY , IBM Corp . Released 2013 .

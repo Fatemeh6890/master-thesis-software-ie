@@ -1,0 +1,2 @@
+{"precision": 0.5473881370746695, "recall": 0.6599099099099099, "f1-score": 0.5920593854677851, "name": "bert_base_uncased", "epochs": 8, "train_batch_size": 4, "val_batch_size": 8, "lr": 3.4761989793610213e-05, "weight_decay": 0.00021383997220875088, "warmup_ratio": 0.1}
+{"precision": 0.7863900972724502, "recall": 0.7864864864864864, "f1-score": 0.7841076303341934, "name": "bert-base-uncased", "epochs": 14, "train_batch_size": 16, "val_batch_size": 8, "lr": 3.106652647102282e-05, "weight_decay": 0.015974806494799283, "warmup_ratio": 0.010271506016946775}

@@ -1,0 +1,1 @@
+{'num_train_epochs': 8, 'learning_rate': 4.618029808981708e-05, 'per_device_train_batch_size': 4, 'per_device_eval_batch_size': 8, 'weight_decay': 0.03758347847992206, 'eval_strategy': 'epoch', 'logging_dir': './logs', 'logging_steps': 100, 'warmup_ratio': 0.1, 'gradient_accumulation_steps': 2, 'max_grad_norm': 1.0, 'disable_tqdm': False, 'model_name': 'bert-base-cased'}

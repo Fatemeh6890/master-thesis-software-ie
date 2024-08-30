@@ -1,0 +1,1 @@
+{'global_step': 1760, 'training_loss': 0.08012653394729238,'train_runtime': 1576.313, 'train_samples_per_second': 8.953, 'train_steps_per_second': 1.117, 'total_flos': 3679590529105920.0, 'train_loss': 0.08012653394729238, 'epoch': 7.981859410430839}

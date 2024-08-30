@@ -1,0 +1,4 @@
+{"precision": 0.823715719005297, "recall": 0.871359223300971, "f1": 0.842060317488948, "name": "caren_bert-base-uncased", "epochs": 8, "train_batch_size": 64, "val_batch_size": 8, "lr": 7e-05, "weight_decay": 0.01, "warmup_ratio": 0.1}
+{"precision": 0.7767411162035308, "recall": 0.8446601941747574, "f1": 0.7972382547037282, "name": "claus_bert-base-uncased", "epochs": 6, "train_batch_size": 64, "val_batch_size": 8, "lr": 5e-05, "weight_decay": 0.01, "warmup_ratio": 0.1}
+{"precision": 0.85119278721334, "recall": 0.8883495145631068, "f1": 0.8635267081649254, "name": "john_bert-base-uncased", "epochs": 8, "train_batch_size": 64, "val_batch_size": 8, "lr": 0.0001, "weight_decay": 0.01, "warmup_ratio": 0.1}
+{"precision": 0.7996582542791133, "recall": 0.8737864077669903, "f1": 0.831031498493509, "name": "peter_bert-base-uncased", "epochs": 8, "train_batch_size": 64, "val_batch_size": 8, "lr": 5e-05, "weight_decay": 0.01, "warmup_ratio": 0.1}

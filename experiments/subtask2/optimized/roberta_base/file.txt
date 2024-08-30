@@ -1,0 +1,1 @@
+dict = TrainOutput(global_step=2200, training_loss=0.06315903254530647, metrics={'train_runtime': 2066.2758, 'train_samples_per_second': 8.537, 'train_steps_per_second': 1.065, 'total_flos': 4599488161382400.0, 'train_loss': 0.06315903254530647, 'epoch': 9.977324263038549})

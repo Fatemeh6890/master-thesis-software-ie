@@ -1,0 +1,374 @@
+Here we elaborate on the implementation details of FIMTrack and give an in - depth explanation of the used algorithms .
+The source code is available under the GNU GPLv 3 at https://github.com/i-git/FIMTrack and pre - compiled binaries for Windows and Mac are available at http://fim.uni-muenster.de .
+FIMTrack is freely available as a pre - built binary package for Windows and Mac at http://fim.uni-muenster.de .
+The source code of FIMTrack is licensed under the GNU GPLv 3 and can be obtained from https://github.com/i-git/FIMTrack .
+Finally , FIMTrack does not include a module to resolve colliding animals so that the identities of animals participating in a collision get lost and the trajectories of these animals terminate .
+Chaste - Cancer , Heart And Soft Tissue Environment - is an open source C + + library for the computational simulation of mathematical models developed for physiology and biology .
+Chaste is developed using industrially - derived techniques , in particular test - driven development , to ensure code quality , re - use and reliability .
+Cancer , Heart And Soft Tissue Environment ( Chaste ) has been developed to enable the study of novel problems in computational physiology and biology .
+The example simulations can be run , and figures recreated , by downloading the associated Chaste project from http://www.cs.ox.ac.uk/chaste/download , as described in Text S1 .
+Chaste is written in C + + , a compiled language that allows object - oriented class definitions .
+At present Chaste can only be used with Linux , although it works well via a Linux virtual machine ( using software such as VirtualBox ) on a host running Microsoft Windows or Mac OS X .
+An independent analysis of Chaste development activity and code composition can be found at Ohloh ( http://www.ohloh.net/p/Chaste ) .
+Chaste is developed using an ‘ agile ’ development methodology , using many features of eXtreme Programming ( XP ) [19] .
+Chaste is freely available to download from the website at http://www.cs.ox.ac.uk/chaste .
+Here we developed a generalized software toolkit " AlignerBoost " , which utilizes a Bayesian - based framework to accurately estimate mapping quality of ambiguously mapped NGS reads .
+AlignerBoost is implemented as a uniform Java application and is freely available at https://github.com/Grice-Lab/AlignerBoost .
+Here we present AlignerBoost , a generalized software toolkit suitable for most NGS studies requiring alignment to a reference genome .
+Here , we developed a generalized software toolkit , AlignerBoost , which we show dramatically boosts the mapping precision for most modern NGS aligners while maintaining a similar level of sensitivity .
+AlignerBoost supports numerous customizable mapping parameters and users can expect up to 100 % mapping precision in most cases if parameters are correctly chosen .
+To address these challenges , we have developed a new software framework called COBRAme for building and simulating ME - models .
+We used COBRAme to reconstruct a condensed E . coli ME - model called iJL 1678b - ME .
+We addressed these challenges by developing a computational framework called COBRAme for building , editing , simulating , and interpreting ME - models .
+COBRAme is written in Python and extends the widely used COBRApy software that only supports M - models [18] .
+The latest version of COBRAme can be downloaded from https://github.com/SBRG/cobrame .
+The online interactive Rank Products analysis tool RankProdIt , for analysis of any data set containing measurements for multiple replicated conditions , is available at : http://strep-microarray.sbs.surrey.ac.uk/RankProducts
+Here we present the first online interactive Rank Products analysis tool RankProdIt .
+" Project name : RankProdIt Project home page : http://strep-microarray.sbs.surrey.ac.uk/RankProducts/ Any restrictions to use by non - academics : None "
+We propose a novel method and software tool , Strawberry , for transcript reconstruction and quantification from RNA - Seq data under the guidance of genome alignment and independent of gene annotation .
+Availability : Strawberry is written in C + + 14 , and is available as open source software at https://github.com/ruolin/strawberry under the MIT license .
+Strawberry was written in C + + 14 and utilizes features such as threading library for parallelization .
+Strawberry is available as a free software at https://github.com/ruolin/strawberry under the MIT license .
+This paper introduced Strawberry , a fast , accurate genome - guide assembler and quantification tool for RNA - Seq data .
+Here , we present a new open - source software , Microscopy Image Browser ( MIB ) [9] , that was designed for , but not limited to , easy and effective segmentation of multidimensional datasets , improving and facilitating the full utilization and quantitation of acquired data .
+Drawing upon open - source general - purpose machine learning algorithms and libraries , we have developed a software package IDEPI ( IDentify EPItopes ) for learning genotype - to - phenotype predictive models from sequences with known phenotypes .
+IDEPI can apply learned models to classify sequences of unknown phenotypes , and also identify specific sequence features which contribute to a particular phenotype .
+The cross - platform Python source code ( released under the GPL 3.0 license ) , documentation , issue tracking , and a pre - configured virtual machine for IDEPI can be found at https://github.com/veg/idepi .
+To provide a unified solution for these and similar problems , we designed IDEPI - a domain - specific and extensible software library for supervised learning of models that relate genotype to phenotype for HIV - 1 and other organisms .
+IDEPI makes use of open source libraries for machine learning ( scikit - learn , scikit-learn.org/ ) , sequence alignment ( HMMER , hmmer.janelia.org/ ) , sequence manipulation ( BioPython , biopython.org ) , and parallelization ( joblib , pythonhosted.org/joblib ) , and provides a programming interface which allows users to engineer sequence features and select machine learning algorithms appropriate for their application .
+A Virtual Machine for Oracle ' s VirtualBox has also been built to provide easy access to IDEPI for users unfamiliar with the intricacies of Python package management , and is available from the main package distribution page ( http://github.com/veg/idepi/ ) .
+The complete source code tree , example files , and documentation for IDEPI ; for the most current version visit the package distribution page at https://github.com/veg/idepi .
+Here , we present a new web server - based tool , the Pipeline for estimating EPIStatic genetic effects ( PEPIS ) , for analyzing polygenic epistatic effects .
+The PEPIS is publically available at http://bioinfo.noble.org/PolyGenic_QTL/ .
+Motivated by the challenge presented by the tremendous computational demand associated with epistatic QTL mapping , we conducted a thorough investigation of the model developed by Xu et al . and re - implemented the model algorithm using C / C + + , resulting in the development of a web server - based tool named PEPIS ( Pipeline for estimating EPIStatic genetic effects ) .
+We developed the PEPIS for rapid epistatic QTL mapping analyses .
+The PEPIS pipeline , the source code and the test data are freely available at http://bioinfo.noble.org/PolyGenic_QTL/ .
+Here , we present a program , FamSeq , which reduces both false positive and false negative rates by incorporating the pedigree information from the Mendelian genetic model into variant calling .
+To accommodate variations in data complexity , FamSeq consists of four distinct implementations of the Mendelian genetic model : the Bayesian network algorithm , a graphics processing unit version of the Bayesian network algorithm , the Elston - Stewart algorithm and the Markov chain Monte Carlo algorithm .
+We developed a software package , FamSeq , which calls variants for family - based sequencing data .
+FamSeq is a free software package under GNU license ( GPL v 3 ) , which can be downloaded from our website : http://bioinformatics.mdanderson.org/main/FamSeq , or from SourceForge : http://sourceforge.net/projects/famseq/ .
+A user ready , portable , documented software package , NFTsim , is presented to facilitate numerical simulations of a wide range of brain systems using continuum neural field modeling .
+NFTsim is distributed under the Apache 2.0 license .
+The purpose of this paper is to present a neural field software package , NFTsim , that can simulate scales from a few tenths of a millimeter and a few milliseconds upward , thereby making contact with experiments [1-6] and other classes of simulations over this range [ 7 , 8 ] .
+Written in C + + , NFTsim has been tested on a range of Linux distributions ( RHEL 6.9 , RHEL 7.4 , OpenSUSE 13.2 , OpenSUSE 42.2 ) .
+Here we present Pathomx , a workflow - based tool for the processing , analysis and visualisation of metabolomic and associated data in an intuitive and extensible environment .
+Pathomx is released with a base set of plugins for the import , processing and visualisation of data .
+Recognising the benefits that workflow - based analysis could offer to metabolomics analysis while hoping to overcome the limitations of batch - based processing , we developed Pathomx : a workflow - based tool for data analysis .
+Pathomx is an open source and cross - platform analysis tool .
+" Project name : Pathomx Project home page : http://pathomx.org Platform : Binaries are available for download on Windows and MacOS X .
+Installation on Linux ( Ubuntu ) is supported via PyPi .
+Source code is available . Programming language : Python 2.7 , Qt 5.2 Other requirements : Package binary contains all requirements License : GNU GPL v 3.0 Any restrictions to use by non - academics : N / A "
+A public release of DCE @ urLAB , together with the open source code and sample datasets , is available at http://www.die.upm.es/im/archives/DCEurLAB/ .
+In this section , the compartmental models implemented in the DCE @ urLAB analysis tool are described .
+Thus , an additional MRI model has been included in the DCE @ urLAB application and is discussed later .
+DCE @ urLAB has been implemented in a flexible and modular way , so that the addition of new analysis models is straightforward .
+A public release of DCE @ urLAB , together with the open source code and sample datasets , is available at http://www.die.upm.es/im/archives/DCEurLAB/ and in Additional files [1] and [2] .
+" Project name : DCE @ urLAB 1.0Project home page : http://www.die.upm.es/im/archives/DCEurLAB/Operating system ( s ) : Microsoft Windows 7 / Vista / XPProgramming language : IDLOther requirements : IDL 6.4 or higher , IDL Virtual Machine 6.4 or higherLicense : BSD license "
+Here , we addressed this by developing a web - based software tool , PhosphOrtholog ( http://www.phosphortholog.com ) that accurately maps protein modification sites between different species .
+Here we describe PhosphOrtholog , a web - based application for mapping known and novel orthologous PTM sites from experimental data obtained from different species .
+To this end , we have developed an automated web - based tool , PhosphOrtholog , which allows batch processing and mapping of large species - specific PTM datasets to compare overlap at a site - specific level .
+Here we present PhosphOrtholog , a web - based tool providing cross - species mapping functionality for novel and known phosphorylation and other PTM sites quantified in independent MS - based experiments .
+The web - tool can be accessed from http://www.phosphortholog.com/ using any typical web browser ( except Internet Explorer ) .
+In this study , we present PhosphOrtholog , a web - based tool , which allows mapping of both novel and annotated PTM sites across species for large MS - based phosphoproteomics datasets .
+" Project name : PhosphOrtholog Project home page : http://www.phosphortholog.com/ Operating system ( s ) : Platform independent .
+Compatible with any modern web browser except Internet Explorer ( we tested it on Firefox v 30.0 , Chrome v 36.0 , Safari v 6.1 ) Programming language : jQuery / HTML 5 , Python / Django , R Other requirements : A VirtualBox installation ( for expansion and modification ) License : GPL Any restrictions to use by non - academics : None "
+Results : We have developed an SV discovery method , called DELLY , that integrates short insert paired - ends , long - range mate - pairs and split - read alignments to accurately delineate genomic rearrangements at single - nucleotide resolution .
+DELLY is suitable for detecting copy - number variable deletion and tandem duplication events as well as balanced rearrangements such as inversions or reciprocal translocations .
+On real data , DELLY reliably uncovers SVs from the 1000 Genomes Project and cancer genomes , and validation experiments of randomly selected deletion loci show a high specificity .
+Availability : DELLY is available at http://www.korbel.embl.de/software.html
+Herein , we report a new integrative approach , called DELLY , that combines short - range and long - range paired - end mapping and split - read analysis for the discovery - at single nucleotide resolution - of balanced and unbalanced forms of structural variation , i.e. deletions , tandem duplications , inversions and translocations , achieving high sensitivity and specificity throughout the genome and for SVs falling into a wide size spectrum .
+The IHC Profiler plugin developed is compatible with the open resource digital image analysis software , ImageJ , which creates a pixel - by - pixel analysis profile of a digital IHC image and further assigns a score in a four tier system .
+Keeping in view the above mentioned limitations of various analytical methods , we report here , the development of an open source plugin named IHC Profiler , which is compatible with the ImageJ software and demonstrate the method for IHC analysis using color deconvolution and computerized pixel profiling leading to the assignment of an automated score to the respective image .
+The current plugin named as IHC profiler , integrates options for quantitative analysis of digital IHC images stained for either cytoplasmic or nuclear proteins .
+IHC profiler can be freely downloaded from Sourceforge website ( https://sourceforge.net/projects/ihcprofiler/ ) .
+IHC profiler is currently compatible for use with Microsoft Windows operating system .
+This program named ‘ IHC Profiler ’ has been embedded under the plugin menu of the ImageJ software .
+We present CapR , an efficient algorithm that calculates the probability that each RNA base position is located within each secondary structural context .
+Using CapR , we demonstrate that several RBPs bind to their target RNA molecules under specific structural contexts .
+CapR is available at https://sites.google.com/site/fukunagatsu/software/capr .
+We implemented our efficient algorithm as software named ‘ CapR ’ , which can compute the structural profiles for tens of thousands of long RNAs within a reasonable time by enumerating all the possible secondary structures of the RNAs .
+In this study , we developed an efficient algorithm that calculates the structural profiles of RNAs , and implemented it as CapR .
+The algorithm was implemented as software named CapR and was applied to the CLIP - seq data of various RBPs .
+We implemented the algorithms in C + + as a program named CapR .
+To improve the state - of - the - art , we developed eMatchSite , a new method for constructing sequence order - independent alignments of ligand binding sites in protein models .
+More importantly , eMatchSite offers a high tolerance to structural distortions in ligand binding regions in protein models .
+eMatchSite is freely available to the academic community as a web - server and a stand - alone software distribution at http://www.brylinski.org/ematchsite .
+To mitigate this issue , we developed eMatchSite , a new algorithm that performs sequence order - independent local binding site alignments using computer - generated protein models .
+The performance of eMatchSite is evaluated using several datasets and compared to other algorithms for binding site matching in large - scale benchmarking calculations .
+To address these limitations , we present 4Cin , a method to generate 3D models and derive virtual Hi - C ( vHi - C ) heat maps of genomic loci based on 4C - seq or any kind of 4C - seq - like data , such as those derived from NG Capture - C .
+Here , we present 4Cin , a completely automated and easy to use pipeline to generate 3D chromatin models from 4C - seq data .
+4Cin can also generate models using 4C - seq - like data coming from recently developed techniques such as NG Capture - C or Capture - C , as long as they are used to capture at least 4 viewpoints within each region of interest .
+The code is public and available at https://github.com/batxes/4Cin with a GNU GENERAL PUBLIC LICENSE .
+The 4Cin pipeline can be deployed pulling the docker image from https://hub.docker.com/r/batxes/4cin_ubuntu/ to avoid the installation of the dependencies .
+We present a fast and user - friendly software platform called " cellXpress " to segment cells , measure quantitative features of cellular phenotypes , construct discriminative profiles , and visualize the resulting cell masks and feature values .
+We systematically compared the processing speed , cell segmentation accuracy , and phenotypic - profile clustering performance of cellXpress to other existing bioimage analysis software packages or algorithms .
+The cellXpress platform is designed to make fast and efficient high - throughput phenotypic profiling more accessible to the wider biological research community .
+The cellXpress installation packages for 64 - bit Windows and Linux , user manual , installation guide , and datasets used in this analysis can be downloaded freely from http://www.cellXpress.org .
+Here , we present a new cell image analysis software platform called " cellXpress " for high - throughput phenotypic profiling .
+We have implemented and optimized a seeded - watershed - based cell segmentation algorithm [2] for the cellXpress platform .
+The cellXpress software package can be downloaded from http://www.cellXpress.org .
+The EpiGRAPH web service http://epigraph.mpi-inf.mpg.de/ enables biologists to uncover hidden associations in vertebrate genome and epigenome datasets .
+With the development of EpiGRAPH , we have pulled together our experiences and established workflows from several studies [10,20-23] and incorporated them into a powerful and easy - to - use web service .
+We developed EpiGRAPH to fill this gap , thereby enabling biologists to perform advanced bioinformatic analysis and prediction with little need for bioinformatic support .
+EpiGRAPH was developed with this scenario in mind and prototypes software paradigms required for distributed genome analysis by concerted action of specialized tools .
+EpiGRAPH facilitates reproducibility and data sharing by encoding all analyses in standardized analysis description files that can be re - run by other users .
+We introduce a novel computational framework , DriverNet , to identify likely driver mutations by virtue of their effect on mRNA expression networks .
+DriverNet is available on Bioconductor or at http://compbio.bccrc.ca/software/drivernet/ .
+We therefore propose an integrated genome / transcriptome analysis framework , called DriverNet , to contextualize genomic aberrations ( for example , mutations and copy number alterations ) by their effect on transcriptional networks and identify candidate genomic aberrations suitable for functional experimental follow - up .
+We developed a novel , integrated algorithmic approach ( DriverNet ) to analyze population - based genomic and transcriptomic interrogations of tumor ( sub ) types for identification of pathogenic driver mutations .
+We presented a novel algorithm called DriverNet for integrative analysis of genomic and transcriptomic data derived from population - level studies of tumors .
+The DriverNet algorithm is implemented in a publicly available R package [31] .
+The DTI images were analysed using DTV.II SR toolbox software ( Image Computing and Analysis Laboratory [ UTRAD / ICAL ] Department of Radiology , The University of Tokyo Hospital , extension of Volume 1 , package [ http://www.volume-one.org/ ] ) with the following parameters to determine the degree of sensitivity for generating DTI tracts : Fractional Anisotropy ( FA ) = 0.05 , steps = 160 ; Apparent Diffusion Coefficient ( ADC ) ( x1K ) : any ; So < 80 ; Angle : any .
+The Ki 67 immunohistochemistry was performed on a benchmark ULTRA using clone 30 - 9 ( Ventana Medical Systems , Tucson , AZ ) , and interpreted with an iScan Coreo and Virtuoso algorithm ( Ventana Medical Systems ) .
+The molecular analyses were performed by PCR amplification , using primers designed with Primer 3 software ( Table S1 ) , followed by electrophoresis in 1.8 % agarose gel .
+The images were identically processed using MetaMorph Software ( Molecular Devices ) .
+The data presented in this article represent mean ± standard deviation and were calculated using Statistical Package for the Social Sciences ( SPSS , IBM ) .
+Normalization of the data was performed in qBase 2.0 ( Biogazelle ) , with three reference genes TIP 41 , YLS 8 and SAND .
+Primer amplification efficiencies were determined in qBase from a cDNA dilution series .
+Factorial ANOVA posthoc analyses Fisher LSD was used to evaluate significant differences between mutant and leaf age , and One - Way ANOVA to changes in gene expression with leaf age ( Statistica 7.1 , Stat Soft Inc ) .
+Analysis of Marker Gene Expression in Public Gene Expression Data : The selected marker genes used for qPCR were analyzed with the Condition Search tool “ Perturbations ” in Genevestigator https://genevestigator.com/gv/doc/intro_plant.jsp [31] .
+Analyses were performed using R statistical software , version 3.0 .
+The stimuli were programmed on a Mac Pro computer ( Mac Pro 3.1 , Quad - Core Intel Xeon 2.8 GHz ) using Matlab Version R 2009b and Psychtoolbox [57] , [58] , and displayed using a Mitsubishi Electric colour data projector ( Model XD 400U ) back - projected onto large ( 1.48 m wide by 1.20 m high ) screen mounted on the lab wall .
+Results were then fitted with cumulative Gaussian psychometric functions using custom Matlab code , to give a value for each subject ' s point of subjective equality ( PSE ) for the speed of smooth radial flow that matched the perceived speed of the oscillating flow .
+The mothur pipeline [40] was used for denoising , trimming , alignment to the Silva reference alignment and removal of chimerae .
+All the analyses were performed using the “ survival ” package [27] from R [28] .
+Custom Basic code was written to control the microscope .
+Such a procedure combines the experimenter ' s prior knowledge ( tGuess = − 1 , tGuessSd = 5.0 , beta = 3.5 , delta = 0.01 , gamma = 0.5 in QUEST software of Psychophysics Toolbox [36] ) and the observer ' s responses ( i.e. , right or left ) in past trials in choosing the signal strength for the next trial , and , in the end , estimating threshold .
+The resulting sequences were analyzed using Mothur v. 1.33.3 [12] .
+The shared OTUs ( 97 % sequence identity ) between life stages ( eggs , L2 larvae and workers ) were determined using the Venn diagram package implemented in Mothur .
+The Venny 2.0.2 software was used to plot resulting data .
+The redundant sequences were removed and the sequences were aligned using SILVA SINA ( www.arb-silva.de/aligner/ ) with the reference dataset SILVA SSU Ref NR [17] .
+The phylogenetic tree was reconstructed using the Maximum Likelihood method implemented in MEGA v 6.0 [18] and the Tamura - Nei model with 1000 bootstraps .
+The isolated filariae were counted , analyzed by light microscopy ( Olympus BX 63 microscope , Olympus DP 72 camera ) and measured using the cellSens Dimension 1.9 software .
+Flow cytometry acquisition was performed using a FACSVerse flow cytometer running the FACSuite software ( BD Biosciences ) .
+Analyses were performed with FACSuite Software .
+Real - time PCR gene - specific primers for s100a 8 , s100a 9 and β - actin were designed using Oligo Calc ( Kibbe , 2007 ) as follow : s100a 8 , 5 ’ - ACCATGCCCTCTACAAGAA TGACT - 3 ’ ; 5 ’ - ACTCCTTGTGGCTGTCTTTGTG - 3 ’ ; s100a 9 , 5 ’ - AACCAGGACAATCAG CTGAGCTTT - 3 ’ ; 5 ’ - AGGCCATTGAGTAAGCCATTCCC - 3 ’ ; β - actin , 5 ’ - ACCACAGCTGAGAGGGAAATCGT - 3 ’ ; 5 ’ - AACCGCTCGTTGCCAATAGTGA - 3 ’ .
+Data was processed and displayed using the online RT 2 Profiler PCR Array Data analysis 3.5 software at the sabiociences.com website ( Qiagen ) .
+Transcriptional data were evaluated using Ingenuity Pathway Analysis ( IPA , Systems Inc . , USA ) and prediction ( increase of decrease ) of biological activities occurring in the tissue was established .
+Specific primers for CXCL 1 were designed using Oligo Calc ( Kibbe , 2007 ) as follow : 5 ’ - CACTGCACCCAAACCGAAGTCATA - 3 ’ ; 5 ’ - TCTCCGTTACTTGGGGACACCTTT - 3 ’ ; A DNA Master Plus SYBR Green Kit ( Roche Diagnostics , France ) was used in a LightCycler 2.0 ( Roche Diagnostics , France ) with an initial incubation of 10 min at 95 ° C , 40 amplification cycles of ten seconds at 95 ° C , of 8 sec at 60 ° C , and of 10 sec at 72 ° C , during which the fluorescence data were collected .
+Representation and data analyses were performed with GraphPad Prism 5 software .
+We used the SAS package ( version 9.1 ) for statistical analysis in this study .
+fMRI movie data were preprocessed using AFNI software [42] ( http://afni.nimh.nih.gov ) .
+Any spikes in the data were removed using 3dDespike in AFNI .
+Data were then filtered using 3dBandpass in AFNI to remove any temporal signal variation slower than 0.00667 Hz , faster than 0.1 Hz or that correlated with the whole brain average signal or the head movement parameters .
+Each subject ’ s anatomical volume was first aligned to the motion corrected average EPI volume and then to the MNI 152 brain template in AFNI .
+Definition of masks and searchlights for movie data : We derived a gray matter mask by segmenting the MNI _ avg 152T 1 brain provided in AFNI and removing any voxel that was outside the cortical surface by more than twice the thickness of the gray matter at each surface node .
+Cortical nodes were defined in a standard cortical surface from FreeSurfer ( fsaverage ) ( https://surfer.nmr.mgh.harvard.edu ) and resampled into a regular grid using AFNI ’ s MapIcosahedron [42,43] with 10,242 nodes in each hemisphere .
+We defined the surface searchlights [44] in PyMVPA [45] ( http://www.pymvpa.org ) as cortical disks .
+The thickness of disks was extended beyond the gray matter , as defined in FreeSurfer , 1.5 times inside the white - matter gray - matter boundary and 1.0 times outside the gray - matter pial surface boundary to accommodate any misalignment of gray matter as computed from the anatomical scan and the gray matter voxels in the EPI scan .
+Searchlights for defining connectivity targets were defined using a coarse surface grid corresponding to the ico 8 surface in SUMA [43] with 1284 nodes ( 10.7 mm spacing between nodes ) .
+For each subject , we used their cortical surfaces and fMRI data aligned to the group using MSM - All [22] with 32K nodes in each hemisphere as provided by the HCP .
+We defined connectivity target searchlights using a coarser surface grid corresponding to the ico 8 surface in SUMA [43] with 1284 nodes ( 10.7 mm spacing between nodes ) .
+These searchlights are aligned across subjects based on anatomy ( movie data ) or MSM - All ( HCP resting state data ) ; consequently , each locus within a searchlight is similarly aligned across subjects before CHA .
+Local transformation matrices for each searchlight map anatomically or MSM - All aligned cortical loci in a cortical field to CHA - aligned dimensions in the common model connectome .
+We searched for terms and cortical areas implicated in visual , auditory , cognitive , and social functions in NeuroSynth [22] and took the coordinates for the peak location associated with each of 24 terms ( S1 Table ) .
+We used bootstrapping to test for significance of the contrasts between alignment methods by sampling subjects 10,000 times to compute 95 % CIs using BootES [51] .
+Control for effect of filtering : In addition to the anatomically - aligned movie data and MSM - All aligned HCP resting state fMRI data , we calculated a third dataset that controls for the effect of filtering the data through CHA transformations but aligns those filtered data across subjects based on anatomical or MSM - All alignment .
+ISCs were calculated for data mapped into the common model connectome , for movie data aligned anatomically , for HCP resting state data aligned with MSM - All , and for filter control movie and HCP data .
+To account for the effect of filtering , we did this analyses with filter control data that were filtered with CHA but aligned based on anatomy and MSM - All and after CHA with each subject aligned to the same reference subject [16] .
+We implemented our methods and ran our analyses in PyMVPA [45] ( http://www.pymvpa.org ) unless otherwise specified .
+All preprocessing and analyses were carried out on a 64 - bit Debian 7.0 ( wheezy ) system with additional software from NeuroDebian [52] ( http://neuro.debian.net ) .
+All analyses were performed using SAS v. 9.4 ( SAS Institute Inc . Cary , NC , USA ) and a level of 0.05 was used for statistical significance .
+When geo - referenced localities were not available ( only locality names ) , geographic coordinates were obtained with the software Google Earth .
+The precise location of all surveyed occurrence were checked using the software Google Earth and only localities within the known distribution range of the species were used for analysis [11] .
+This procedure was performed using SDMtoolbox [16] , resulting in a total of 44 unique occurrence records .
+ENMs were developed using a maximum entropy algorithm implemented in the software MaxEnt version 3.3.3k [23] .
+MaxEnt is a general - purpose machine learning software that uses presence - only data [23] .
+It has been widely used to predict species distribution , including tephritid species [4,22] and in addition to its robust statistical properties , MaxEnt shows a high performance across several niche modelling methods for presence - only data [24] .
+Following this approach , occurrence data was partitioned in four groups based on spatial clustering of occurrence points [16] , rather than split the data randomly in groups of equal sample size , as the k - fold cross - validation implemented in MaxEnt .
+This procedure was performed using SDMtoolbox [16] .
+First , two sets of variables were selected and then the Pearson ’ s correlation test performed with the software ENMtools v 1.3 [31] was used to ensure the lack of multicolinearity among the selected predictors [32] .
+MaxEnt and most correlative ENMs generate pseudo - absence sample points randomly selected from the background study area [33] .
+MaxEnt allows users to select a variety of “ feature classes ” that can be used to build very complex and highly nonlinear response curves [26] .
+A feature is a function of an environmental variable , and in MaxEnt it can be a combination of six classes : linear ( L ) , quadratic ( Q ) , product ( P ) , hinge ( H ) and threshold ( T ) .
+While users can specify the feature to be used , MaxEnt automatically selects individual features for each predictor that contribute most to model fit using regularization coefficient β [23,26] .
+Studies have demonstrated that less complex and transferable models can be built by tuning the regularization multiplier to values higher than the default of MaxEnt [ 26 , 27 , 38 ] .
+Therefore , in addition to MaxEnt default , regularization multiplier values of 3 and 5 were also tested in the development of the models .
+Additionally , BIC was calculated with the software ENMtools v 1.3 [31] using the full data set .
+To assess climate novelty in the transferred regions , a Multivariate Environmental Similarity Surface test ( MESS ) implemented in MaxEnt was performed .
+Additionally , we restricted model projections to climate conditions encountered during training by disabling extrapolate options in MaxEnt .
+A large number of respondents were eliminated by algorithms in the Globalpark software as the data collection process proceeded , using the following criteria : those whose answers were abnormally patterned ( e.g. , used the same response for a majority of questions , or answered the questionnaire too quickly , based on the average speed of questionnaire completion ) those missing a single response , either demographic or in the main questionnairethose screened out by not fitting into demographic quotas ( i.e. , respondents have to fulfil the demographic criteria to determine eligibility , and even if eligible , whether the quota for their profile is already full , before they can complete the questionnaire proper ) .
+All such interviews were conducted by native language interviewers in each country using CATI - SPSS Dimensions software .
+Online responses were exported from an integrated research platform ( Globalpark ) by Opinion Matters personnel into a survey reporting software program ( SNAP ) , and from thence were converted into an Excel spreadsheet .
+Interviewers recorded telephone and face - to - face responses by hand onto printed data - sheets which were then transcribed into electronic records in an Excel database using codes consistent with the on - line records .
+To evaluate risk factors affecting diagnosing PBM by MRCP , a stepwise logistic regression analysis was performed with SAS 8 . 0 .
+Data were preprocessed and analyzed using SPM 8 software ( Wellcome Department of Imaging Neuroscience , www.fil.ion.ucl.ac.uk/spm ) implemented in MATLAB ( Mathworks , Natick , MA ) .
+EPI time series were corrected for motion and distortion using “ Realign and Unwarp ” [31] using the generated field map together with the Fieldmap toolbox [32] provided in SPM 8 .
+The swimming path of the mice was recorded by a video camera and analyzed by the Videomot 2 software ( TSE ) .
+Immunoblots were quantified using ImageJ ( NIH ) .
+Statistical analysis was performed using Prism software .
+Data were acquired using HEKA EPC 10 and analyzed by Patchmaster ( HEKA ) .
+Protein identification , quantification , and phosphosite determination : All MS data was interpreted using the using the Spectrum Mill software package v 4.0 beta ( Agilent Technologies , Santa Clara , CA ) .
+Peptides were considered not quantifiable if they were shared across multiple subgroups of a protein or the precursor ions had a poorly defined isotope cluster ( i.e. the “ subgroup specific ” and “ exclude poor isotope quality precursor ” XIC filters in Spectrum Mill were enabled ) .
+The peak area for the XIC of each precursor ion subjected to MS / MS was calculated automatically by the Spectrum Mill software in the intervening high - resolution MS 1 scans of the LC - MS / MS runs using narrow windows around each individual member of the isotope cluster .
+The STATA v 11.2 software was used to perform statistical analysis .
+The computer system ( acer Veriton M2610 , processor : Intel Core i3 - 2120 3.3G / 3M / 65W , memory : 4GB DDR 3 - 1066 , operating system : Microsoft Windows 7 Professional 64bit ) used by the subject was put under a desk ( 0.70 x 1.26 m , height 0.73 m ) .
+The keyboard used by the subject was an acer KU - 0355 ( 18.2 x 45.6 cm , normal keyboard with the United States layout , typically used for Windows operating system ) connected to the computer system used through USB 2.0 communication interface .
+The keystroke collection software was developed using C # project built by using Visual Studio 2008 and was executed on the .
+NET framework ( version 3.5 ) platform .
+The reason of using C # programming language in developing this software was that the language provides more sufficient Application Programming Interfaces ( APIs ) for utilizing the function of keystroke - interrupt detection in Microsoft Windows operation systems than other programming languages such as R , Matlab , Java , and Python .
+The software package Psychtoolbox - 3 ( www.psychtoolbox.org ) running on MATLAB 7.1 ( MathWorks Inc . , United States ) was used for stimulus presentation and response acquisition .
+We used a 16 - channel bioamplifier ( Nexus - 16 ; Mind Media B.V . , the Netherlands ) and the corresponding recording software Biotrace ( Mind Media B.V . ) to record electrodermal responses .
+Skin conductance data was analyzed using Ledalab ( www.ledalab.de ) applying continuous decomposition analysis to disentangle phasic components from tonic activity [21] .
+We used Microsoft Office Excel 2010 and Stata software ( Stata / SE 13.1 ) for all analyses .
+Stained cells were analyzed on a FC 500 flow cytometer ( Beckman Coulter ) , with data analyzed with FlowJo software ( Tree Star , Ashland , OR , USA ) .
+GraphPad Prism version 6 ( GraphPad , San Diego , CA ) was used for statistical analysis .
+Depending on the course , instructor , and exam type , DE MCS students have taken exams at a regional location monitored by a paid proctor or have taken exams using commercial online proctoring services such as Remote Proctor Now from Software Secure ( http://softwaresecure.com ) or ProctorU ( http://proctoru.com ) .
+All figures were generated with the R package , ggplot 2 [32] .
+All data were analyzed using Prism 6.0f 2014 , GraphPad Software , Inc . with 95 % confidence limits .
+OAE was visualized with the Protege 4.0.2 OWL editor .
+Specifically , the TIV - and LAIV - specific AEs and their parent term hierarchies were extracted from the OAE using the OntoFox program [16] .
+The hierarchical results were visualized using the Protege - OWL editor and manually studied and compared .
+Additional QC was performed using PLINK [20] , where individuals or SNPs were excluded with total call - rates < 95 % , SNPs with call rates < 98 % , individuals with minor allele frequencies < 1 % , or out of Hardy - Weinberg equilibrium ( p < 1 × 10 − 6 ) .
+We imputed missing genotypes using MACH and retained SNPs with r 2 > 0.8 .
+CNVs were identified using Birdseye [21] , which identifies CNVs by integrating intensity data from neighboring probes using a hidden Markov model ( HMM ) on a per - individual basis .
+All CNV analysis were performed in PLINK and only those CNVs present in less than 10 % of the total sample were used for analysis .
+Households in selected clusters were mapped using Global Positioning System ( GPS ) software ( CDC GPS Sample for Windows Mobile devices https://sites.google.com/a/wolkon.com/gps-sample/ ) .
+All analyses were adjusted for the survey design , clustering of households and sample weights using STATA 11 .
+With the GoldWave ( Version 5.58 , GoldWave Inc . , www.goldwave.com ) , all stimuli were standardized to a proper length and identical volume ( 16dB ) .
+The experiment program was conducted by the E - Prime 1.2 ( Psychology Software Tools , Inc . , Pittsburgh , PA ) .
+The obtained fMRI data were preprocessed and analyzed using the statistical parametric mapping ( SPM 8 ; Wellcome Trust Center for Imaging , London , UK ; http://www.fil.ion.ucl.ac.uk/spm ) .
+Data preprocessing was done with default setting of SPM 8 .
+Marsbar ( version 0.42 ) was applied to extract the beta value , with spherical ROIs of 10mm radius for putamen , 12mm radius for other areas .
+The behavioral data of scanning rating , and post - scanning ratings were analyzed by the One - way ANOVA ( using LSD in post hoc analysis ) via software SPSS 16 .
+All analyses were conducted in the program R version 3.2.2 [57] , with add - on packages ‘ nlme ’ [58] for mixed effects models .
+OpenEpi ( Atlanta , GA ) [25] was used to perform t - tests and χ 2 tests of independence , and SAS version 9.2 ( Cary , NC ) was used for descriptive statistics and logistic regression modeling .
+Variables with a variance inflation factor greater than 3 were removed from the analysis stepwise using the package car in the R environment [29] .
+The R statistical environment was used for all analyses [34] .
+This display was generated using the Presentation software package ( Version 16 , Neurobehavioral Systems Inc . , Albany , CA , USA ) , and was projected onto a mirror mounted in the scanner in front of the participant ’ s head .
+All finger movements during tapping were recorded using a button box , and the software Presentation .
+The behavioral data were analyzed using custom code in MATLAB ( R 2010a ; The MATHWORKS Inc . , Natick , MA , USA ) and SPSS Statistics ( PASW Statistics 18 ; IBM Corporation , Armonk , NY , USA ) .
+Functional and anatomical images were pre - processed and analyzed using BrainVoyager QX ( Version 2.3 , Brain Innovation B.V . , Maastricht , The Netherlands ) , custom code in MATLAB , and SPSS Statistics .
+All analyses were cross - sectional , and performed using Stata ( 14.0 , StataCorp LP , Tx . USA ) .
+All analyses were performed in Stata version 13.1 ( Stata Corp , Texas , USA ) .
+Confirmatory factor analysis with Mplus version 7.3 [51] was used to estimate the degree of fit for each grooming measure ( TTM , SP and NB ) .
+All data analyses were performed in SPSS 19 .
+The SPSS PROCESS was utilized particularly to test the indirect effects of parental - absence status to suicide ideation through depression or anxiety [28] .
+Data were analyzed using STATA 12 .
+All analyses were performed using the statistical software SAS Enterprise Guide 5.1 .
+Data were analysed using Stata V 13 ( StataCorp , Stata Statistical Software : Release 13 , College Station , Texas , USA ) .
+Secondly , STATISTICA 10.0 ( StatSoft , Tulsa , OK ) software was used to construct the MLP network model , the SVM model , the GPR model and the MLR model of the relationship between the identified predictors and QOL .
+All analyses were conducted using STATA 11 statistical software ( StataCorp . 2009 . Stata Statistical Software : Release 11 . College Station , TX : StataCorp LP ) .
+Statistical analysis was conducted using SPSS 21 ( IBM ) .
+A validated algorithm [14] was used to automatically classify 1 - min actigraphy epochs into active wake , sleep , or waking rest ( Respironics Actiware , Version 5.59.0015 , standard settings ) .
+To analyze time in mission effects , mixed model ANOVAs ( Proc Mixed , SAS Version 9.3 , SAS Institute Inc . , Cary , NC ) with a random intercept for crewmembers and unstructured covariance were performed with mission quarter ( MQ ) as the only explanatory variable ( MQ 1 , days 1 - 130 ; MQ 2 , days 131 - 260 ; MQ 3 , days 261 - 390 ; MQ 4 , days 391 - 520 ) and with the scores from the mood scales ( BDI - II and POMS - SF ) and visual analog scales as outcome variables .
+To investigate individual differences between crewmembers , ANOVAs ( Proc Mixed in SAS ) were performed with crewmember as the only explanatory variable and with the scores from the mood scales ( BDI - II and POMS - SF ) and visual analog scales as outcome variables .
+To estimate the cumulative incidence of T2D within strata defined by quartiles of the genetic risk score ( cutoffs derived from the distribution in the sub - cohort ) and modifiable risk factors , we used the Stata bsample command to recreate the full cohort by resampling with replacement from the sub - cohort , according to the distributions of the stratum variables within the sub - cohort .
+All statistical analyses were carried out with the use of Stata statistical software ( version 9.2 ; Stata Corporation ) .
+In order to use standard instrumental variable estimation methods ( ‘ two - stage least squares ' ) [17] the corr 2data command in Stata was used to construct an artificial dataset matching the reported number of participants with each genotype , and the means and standard deviations of alcohol intake and blood pressure within each genotype .
+All the statistical analyses were performed with the Statistical Package for the Social Sciences ( SPSS , Chicago , Illinois , USA ) .
+G * Power [47] was used to calculate sample sizes to detect a mode bias of 1.5 in population prevalence using McNemar ’ s Exact Test for paired nominal data , assuming 25 % of participants would switch indicator status ( above or below threshold ) between rounds .
+Both enumerators and operators used the same survey instrument , Enketo ( Ona , Nairobi , Kenya and Washington , DC , USA ) , based on the Open Data Kit platform [48] , to collect survey data .
+Operators used Enketo ’ s web form on desktops in United Nations World Food Programme ’ s in - house call center in Nairobi to conduct CATI interviews , while enumerators used a similar offline platform on tablets for the face - to - face surveys in the field .
+All data analyses were conducted in R [54] .
+The data , obtained in duplicates , were analyzed using the iQ 5 Optical system software , version 2.0 ( Bio - Rad ) .
+All analyses were conducted using SAS version 9.4 ( SAS Institute Inc . , Cary , NC ) .
+We used the software “ Soscisurvey ” ( www.soscisurvey.de ) , which offers all state of the art requirements for online based surveys .
+As the data were collected via Soscisurvey , there was no option to track individuals or see who they were .
+Missing values were replaced using multiple imputation implemented via the mice package [36] in R .
+HPLC / MSn analysis was performed with an Agilent 1100 Series HPLC and LCQ Deca XPplus ion trap mass spectrometer ( Thermo Finnigan , San Jose , CA , USA ) equipped with electrospray ionization ( ESI ) source , with Xcalibur 1.3 controlling software .
+All data fitting were carried out using OriginLab ( Pro 8 , OriginLab Corp . , Northampton , MA ) .
+ActiLife software ( version 6.4.3 ) was used to detect and remove daily non - wear intervals between the hours of 7 : 00 and 22 : 00 .
+Descriptive and missing value analyses were conducted using SPSS v 20 .
+Variance components , error estimates , and reliability coefficients were derived using EXCEL macros created by the corresponding author ( see Tables S1 and S2 for a detailed description of the G theory calculations ) .
+Data processing and statistical analysis : Imaging data analysis , registration , visualisation and statistical analyses were performed with the BrainVoyager QX software package ( Brain Innovation B.V . , Maastricht ; The Netherlands ) .
+Location of activated clusters was verified using a printed atlas [27] and labelled using Tailarach ' s nomenclature [23] by means of the Tailarach Daemon ( Research Imaging Center , University of Texas Health Center , San Antonio , TX , USA ) .
+Picture luminance was calculated with Adobe Photoshop CS 2 ( Adobe Systems Inc . , USA ) in 0 - 255 gray scale .
+Path graph modeling and computation of topological metrics were performed on the MATLAB ( Mathworks Inc . , MA , USA ) software platform .
+Curve fitting of spectral embedding path graphs employed the Curve Fitting Toolbox in MATLAB .
+To test quadratic trend , we used Stata contrast command after running multiple logistic regression .
+All analyses were performed using Stata version 12.1 ( StataCorp , College Station , Texas , USA ) .
+We chose to use the Pong game environment in our study for reasons summarized in the SI .
+In short , there are three advantages for illustrating our results with Pong : i ) the Pong game has a real - time two player mode , ii ) DQNs are good in Pong and iii ) the game is well - known and can be easily understood by the reader .
+In Pong each agent corresponds to one of the paddles situated on the left and right side of the screen ( see screenshots in Results section ) .
+This way we are able create several different games within the same Pong environment .
+Score more than the opponent ( fully competitive ) : In the traditional rewarding scheme of Pong , also used in [7] , the player who scores a point gets a positive reward of size 1 ( ρ = 1 ) .
+To obtain quantitative measures of the agents ’ behavior in the Pong environment , we identified and counted specific events in the game , e.g. bouncing of the ball against the paddle or the wall .
+We used Stella [16] integrated debugger to detect the memory locations containing information about these events .
+The statistics are collected after each training epoch by letting the DQNs ( in their current state ) play against each other for 10 games , each game initialized with a different random seed ( In Pong one game consists of multiple exchanges and lasts until one of the agents reaches 21 points . ) .
+In addition to the BRB - N , we administered a task which assessed more complex executive skills ( Stockings of Cambridge [ SOC ] from the Cambridge Neuropsychological Test Automated Battery [ CANTAB ] ) [38] .
+SCR data were acquired continuously using flat - surface electrodes placed on the non - dominant hand and stored for off - line analysis using a second computer running Chart v 4.2 software .
+We used the standard version provided by CANTAB ( http://www.cantab.com/cantab-tests-cambridge-gambling-task.asp ) with a 5 ∶ 5 ratio of red - blue boxes also included in the design to ensure that participants perceived the task as a random trial sequence .
+Statistical analyses were conducted using a STATA software package ( Version 10.0 ) .
+Data ( n = 5 ) from the dose - response experiments ( Fig . 2 ) with celecoxib were fitted to sigmoidal dose - response curves and EC 50 values for celecoxib were calculated by nonlinear regression analysis using Prism GraphPad software .
+C ) Semi - quantitative analysis of COX - 2 , 5 - lipooxygenase ( 5 - LOX ) and p - 5 - LOX , and non - quantitative visualization of signaling proteins by western blotting : Three independent Western blots were conducted for each antibody for the semi - quantitative assessment of protein expression by densitometry for the AA - metabolizing enzymes COX - 2 and p - 5 - LOX , using NIH Image J software .
+D ) Statistical analysis of in vivo data : Statistical analysis was performed using GraphPad Instat software ( GraphPad Software Inc . , La Jolla , CA , USA ) .
+The nucleotide sequences ( 250 bp flanking sequences from the translation start site of each strain ’ s phenazine biosynthetic operon ) were aligned and edited using MUSCLE ( MEGA 7 ) .
+MEGA 7 was used to build a , Maximum Likelihood ( ML ) trees based on the Tamura - Nei Model [64] [65] .
+Data were processed with GraphPad Prism ( GraphPad Software , San Diego , CA ) .
+Data were analyzed using statistical software “ Statistical Package for Social Sciences ” ( SPSS ) 11.0 version .
+Quantification of neuronal density and reuniens nucleus area was carried out using the free Image J Software .
+Collected eyelid data were quantified , through a purpose - designed Excel worksheet , as the percentage of CRs per session - namely , the proportion of stimulations within a session of 60 presentations that generated an EMG activity satisfying the above - mentioned criteria .
+Statistical differences between groups were compared across conditioning and extinction sessions using the two - way repeated measures analysis of variance ( ANOVA ) test , performed with the SPSS 13.0 for Windows package ( SPSS Inc , Chicago , IL ) .
+Significant differences in heart rate and the HRV components were determined using the Mann - Whitney U - test with SPSS Statistics 22 ( IBM Corp . , Armonk , NY ) .
+The statistical analyses were performed using SPSS software ( version 19.0 ; IBM Corp , New York ) .
+Risk ratios ( RR ) and 95 % Confidence Intervals ( CI ) were calculated by using Review Manager 5.1 .
+Using the Twitter application programming interface [44] , we retrieved , depending on the date , 1 % to 15 % of public tweets from 19 November 2009 , the first day that tweet coordinates were provided , to 20 December 2012 .
+We further tested the equality of Harrell ’ s C - index concordance areas of the pair - wise comparable discriminatory ability of the best - fit anthropometric measure with each of the other anthropometric measures ( six pairs ) within race - gender groups , by examining the Harrell ’ s C - index and its p value [17] with Bonferroni correction for multiple testing [18] Statistical analyses were conducted using Stata MP , Version 14.0 ( StataCorp , College Station , Texas , U.S . ) .
+STATA SE .9 software was used for all statistical analysis .
+All estimations were performed by MLwiN within STATA 12 MP ( Stata , Corp . ) and MLWiN 2.26 through runmlwin procedure [30] .
+All statistical analysis was undertaken in Stata , version 13.1 [41] .
+Data were coded using MAXQDA 2007 qualitative data analysis software [37] and were analyzed both inductively and deductively .
+ImageJ ( Fiji ) was used for analysis of positive cells .
+Data were analyzed by means of SPSS 19.0 ( SPSS Inc . , Chicago , Ill , USA ) .
+We recruited 768 online participants on Amazon ’ s Mechanical Turk and TurkPrime [47] to “ rate 50 very brief audio clips of people laughing ” in exchange for $ 2 ( all participation occurred May 11 - 12 , 2017 ) .
+Eleven acoustic features were extracted from the 400 laugh samples using PRAAT [50] ( see Table 2 for descriptive statistics ) .
+Pitch variables : F0 mean refers to mean fundamental frequency , or pitch , as calculated using PRAAT ’ s auto - correlation technique .
+Data manipulation and descriptive analyses were conducted using STATA 11 , while multilevel models were conducted using MLwiN version 2.10 .
+Random numbers were generated through computerised block - randomisation with the SAS package ( SAS ™ Version 9.1 , SAS Institute , Inc . , Cary , NC ) by separate statistician .
+Statistical analyses were conducted using the SAS statistical package .
+Raw data were entered into Microsoft Access using EpiInfo .
+Data analyses were performed in SPSS ( SPSS Statistics for Windows , Version 20.0 . Armonk , NY : IBM Corp ) and confirmed in R ( Version 3.0.1 , The R Foundation for Statistical Computing , Vienna , Austria ) .
+Data were analyzed by using SPSS 17.0 for Windows XP ( SPSS Inc . , Chicago , IL , USA ) .
+Race and ethnicity ( non - Hispanic white , black , Hispanic , Asian , or other ) were self - reported on the questionnaire and verified by manual review of the VA Computerized Patient Record System ( CPRS ) .
+All analyses were conducted using SAS version 9.4 ( SAS Institute , Cary , NC ) .
+The images were continuously recorded and reconstructed at 40 Hz ( Draeger EIT Data Analysis Tool 6.1 ) .
+Statistical analyses were performed using SPSS v 20 ( Chicago , IL , USA ) .
+All statistical analyses were computed with the SPSS Statistical Package for Windows , version 21.0 ( Armonk , NY : IBM Corp . ) .
+Design of the primer was accomplished using NCBI Blast ( https://blast.ncbi.nlm.nih.gov/Blast.cgi ) and Primer 3 ( http://bioinfo.ut.ee/primer3-0.4.0/ ) .
+Calculations were carried out using R , version 3.1.3 .
+The package OptimalCutpoints was used to calculate Cq cutoffs with Youden ’ s index .
+All these analyses were performed using GraphPad Prism v 7.0 ( GraphPad Software , La Jolla , CA , USA ) .
+A multivariate logistic regression analysis was applied to identify influencing factors , using R software ( R Foundation , Vienna , Austria ) .
+Some of them had been used diagnostically before were found in the European Best Practice Guidelines for Molecular Analysis in Spinal Muscular Atrophy , others were found using the Santa Cruz genome browser .
+The Open Meta - Analyst ( Center for Evidence Synthesis in Health , Brown University , Providence , RI , USA [9] ) was used for all analyses .
+A logistic mixed effects model for the metaregression implemented in R [11] as a plugin for Open Meta - Analyst was used because it allows for both within - study variation and between - study variation .
+All data were entered and analysed by SPSS for Windows version 16 .
+Novoalign was used to align the sequencing data to the human reference genome [ NCBI build 37 ] and the Genome Analysis Toolkit ( GATK ) [49] was used for post - processing and variant calling according to GATK Best Practices recommendations [50,51] .
+Variants were annotated using VAX [52] and mutation pathogenicity was predicted using the programs Polyphen [53] , Sift [54] , Condel [55] , and CADD [56] .
+Sequence trace files were aligned and analyzed using Geneious version 7.1.4 created by Biomatters ( http://www.geneious.com/ ) .
+Max projections of the Z - stacks were used for primary cilium measurement and counting in ImageJ ( NIH ) .
+Quantification of IFT 88 retention in the distal end of primary cilia was performed in similar - sized primary cilia using ImageJ ( NIH ) .
+Statistical analyses were performed with Prism v 5.0 ( GraphPad ) .
+Protein amounts were quantified from scanned blots using ImageJ ( NIH ) .
+Data collection : CrystalClear ( Rigaku , 2005 ) ; cell refinement : CrystalClear ; data reduction : CrystalClear ; program ( s ) used to solve structure : SHELXS 97 ( Sheldrick , 2008 ) ; program ( s ) used to refine structure : SHELXL 97 ( Sheldrick , 2008 ) ; molecular graphics : ORTEP - 3 for Windows ( Farrugia , 1997 ) and PLATON ( Spek , 2009 ) ; software used to prepare material for publication : SHELXL 97 .
+The data were analysed using SPSS Pc + statistical software ( version 18.0 ) .
+Analyses were performed using the cloud - based platform Cytobank ( http://www.cytobank.org ) .
+Images of 10 distinct fields by sample were obtained with an optic microscope ( 20x objective ) , and analysis was performed using the ImageJ software application Fiji to quantify the ratio of the alcian blue color surface to the total cell surface .
+Gene expression levels were calculated using the Rotor - Gene Q series software and normalized using the mouse 40S ribosomal protein S17 ( Rs 17 ) as the housekeeping gene .
+Detection was made using the ChemiDoc XRS + imaging system ( Bio - Rad ) , and analysis was performed using the Quantity One software ( Bio - Rad ) .
+GraphPad Prism 5.0 software was used for all statistical analyses .
+All free induction decays ( FIDs ) were multiplied by an exponential function corresponding to a 0.3 Hz line - broadening factor prior to Fourier transform H - NMR spectra which were manually phased and referenced to the glucose doublet at 5.23 ppm using TopSpin 2.2 ( Bruker GmbH , Rheinstetten , Germany ) .
+Spectra were divided into 0.001 ppm - wide buckets over the chemical shift range ( - 0.2 ; 9.5 ppm ) using the AMIX software ( Bruker GmbH ) .
+Identification of the metabolites was carried out from the 1D NMR data using the software Chenomx NMR Suite 8.0 ( Chenomx Inc . , Edmonton , Canada ) and confirmed from analysis of 2D H - H TOCSY , H - C HSQC , and H J - Resolved NMR spectra recorded with standard parameters .
+Relative metabolite concentrations were determined using Chenomx software by manual fitting of the proton resonance lines for the compounds available in the database .
+A pure standard lactate solution ( 1 g / l , Fisher ) was used as an external concentration reference and exploited using the ERETIC 2 utility from TopSpin ( Bruker GmbH , Rheinstetten , Germany ) to add a digitally synthesized peak to a spectrum [24] .
+Multivariate analyses were performed on NMR spectra buckets in the absence of any normalization using SIMCA - P 13 ( Umetrics , Umea , Sweden ) with Pareto scaled variables .
+We did not detect cell type - specific metabolites , but concentrations determined using the Chenomx software revealed quantitative differences ( Table S1 ) .
+A laptop computer running Matlab ( MathWorks ) and Cogent ( FIL , University College London ) was connected to the button - box via serial port , and recorded both the button - box responses by the observer and scanner sequence pulses .
+Preprocessing was conducted using AFNI ( NIH ) and its associated functions , and most steps were identical to those listed in Berns , Brooks & Spivak ( in press ) .
+In addition , we computed the scan - to - scan movement from the AFNI motion files in all three principal directions during exposure to each source ( handler , stranger , computer ) and condition ( reward and no - reward ) for each dog for all volumes , including those subsequently censored .
+For each subject , a General Linear Model was estimated for each voxel using 3dDeconvolve .
+Using AFNI ’ s 3dmaskave , average timecourses for these ROIs were then extracted after transforming to each dog ’ s structural space .
+Analysis was conducted using the Mixed Models procedure in SPSS v 21 ( IBM ) .
+We computed our PPI in AFNI as described in http://afni.nimh.nih.gov/sscc/gangc/CD-CorrAna.html .
+The activation time series for the left and right caudate seeds were extracted for each subject using 3dmaskave .
+The time series were then deconvolved using 3dDetrend using a basic gamma function .
+The interaction term was convolved using the AFNI waver command with a basic gamma function .
+To apply the transformations to a statistical contrast , the appropriate individual - level contrast ( obtained from the GLM as described above ) was extracted from the AFNI BRIK file and normalized to template space .
+Group normalization was conducted using the Advanced Normalization Tools ( ANTs ) software , as described in Berns , Brooks & Spivak ( in press ) .
+AFNI ’ s 3dttest + + was then used to compute a t - test across dogs with the null hypothesis that each voxel had a mean value of zero .
+Instead of a contrast , the beta values for the interaction term ( computed between stimulus presentation schedule and caudate time series ) from each individual dog were entered into a second - level model using 3dttest + + .
+For both the primary GLM and the PPI analysis , we then calculated the average smoothness of the residuals using 3dFWHMx and then used 3dClustsim to estimate the significance of different cluster sizes across the whole brain after correcting for familywise error ( FWE ) .
+SPSS version 22 was used for descriptive analysis of variables ( frequency distribution ) , and the Chi - squared test was used for the association of sociodemographic factors with performance qualifier score .
+Statistical analysis was done using IBM SPSS Statistics for Windows Version 22.0 , Armonk , NY , IBM Corp . Released 2013 .

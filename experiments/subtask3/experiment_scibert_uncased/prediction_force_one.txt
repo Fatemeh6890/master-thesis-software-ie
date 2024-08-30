@@ -1,0 +1,131 @@
+License_of	7	1;URL_of	11	1;URL_of	24	1;Version_of	9	7
+URL_of	16	0
+License_of	9	4;URL_of	17	4;Version_of	11	9
+Developer_of	30	31
+URL_of	13	0
+PlugIn_of	10	4;Citation_of	18	10
+URL_of	19	2;License_of	22	2;Version_of	9	6
+Version_of	7	4
+URL_of	8	0;License_of	11	0
+Abbreviation_of	15	11;Citation_of	17	11
+Version_of	12	11;License_of	11	29;URL_of	34	29
+URL_of	23	0;URL_of	15	11;URL_of	31	29;URL_of	39	37
+Developer_of	4	7;URL_of	39	17
+AlternativeName_of	58	56
+License_of	10	0;URL_of	23	0;URL_of	29	0;Version_of	12	10
+License_of	5	0;Version_of	6	5
+Version_of	18	17;Version_of	21	17;Version_of	24	26;Version_of	27	26
+URL_of	9	4
+
+Version_of	9	8;Version_of	12	11;License_of	23	11;Version_of	26	23
+Version_of	7	4;URL_of	11	4;License_of	41	4;Developer_of	17	18;Version_of	19	18;Version_of	21	18;Version_of	23	34;Version_of	30	34;Version_of	37	34
+URL_of	8	1
+License_of	53	7;Version_of	16	14;Version_of	20	18;Version_of	24	22;Version_of	32	31
+Developer_of	8	9
+URL_of	7	1;License_of	10	1
+URL_of	29	1;Extension_of	5	8;Extension_of	5	10
+URL_of	7	0
+PlugIn_of	1	9;Citation_of	11	9
+Developer_of	11	6;Developer_of	21	6;PlugIn_of	6	33;Abbreviation_of	19	11;URL_of	38	33
+Specification_of	22	15;Developer_of	24	15
+Version_of	8	7;Developer_of	10	7
+Version_of	33	32;Developer_of	35	32
+URL_of	30	29;Citation_of	31	29
+Release_of	25	23;PlugIn_of	28	23;Citation_of	29	28;Citation_of	31	28
+Citation_of	11	8;PlugIn_of	8	13;Citation_of	14	13
+Citation_of	37	35
+Version_of	8	6;Citation_of	9	6
+Version_of	14	12;Citation_of	15	12
+Version_of	15	8;URL_of	19	8;Developer_of	22	8
+Abbreviation_of	9	5;Developer_of	11	5
+Developer_of	7	8;Version_of	9	8
+Citation_of	8	6;URL_of	10	6
+URL_of	15	10;PlugIn_of	27	10;PlugIn_of	27	24;Citation_of	28	27
+Citation_of	8	7;URL_of	10	7
+Citation_of	10	9;URL_of	12	9
+Extension_of	9	12;Extension_of	9	22;Version_of	13	12;Version_of	15	22;Citation_of	23	22;URL_of	25	22
+Version_of	7	5;Developer_of	9	5
+Version_of	14	12;Citation_of	15	12
+Version_of	22	20;Citation_of	23	20
+Version_of	10	8;Citation_of	11	8
+
+Version_of	7	6;Developer_of	10	6;URL_of	16	6;Developer_of	22	20
+Citation_of	26	24;PlugIn_of	24	29;Version_of	30	29
+Version_of	17	16;Developer_of	20	16
+Version_of	23	18;Developer_of	26	18
+Developer_of	32	33;Version_of	34	33;Version_of	36	33
+Release_of	15	13
+Developer_of	35	36
+Version_of	5	3;URL_of	7	3;PlugIn_of	3	11;Version_of	12	11;Developer_of	14	11
+Version_of	5	2;Extension_of	12	2;Extension_of	12	7;Version_of	13	7;Extension_of	12	10
+Developer_of	0	1;Version_of	3	1;Developer_of	5	1
+URL_of	44	37;Developer_of	41	47;URL_of	49	47
+PlugIn_of	9	6;Citation_of	11	9
+Version_of	6	5;Release_of	7	5;Developer_of	9	5
+Developer_of	15	16;URL_of	22	16
+Version_of	5	2;Developer_of	7	2;URL_of	11	2
+Version_of	10	7;Developer_of	12	7
+Specification_of	14	10;Version_of	15	14;Developer_of	17	14;URL_of	27	14
+Version_of	9	7;Citation_of	10	7;PlugIn_of	18	7;Citation_of	20	18
+Citation_of	6	0;Version_of	24	22
+Version_of	11	6;Developer_of	13	6
+Release_of	11	9;Developer_of	14	9;Version_of	31	29;Developer_of	33	29
+Extension_of	12	11;Version_of	15	11;Developer_of	17	11
+Version_of	12	10;Developer_of	14	10
+Version_of	7	5;Developer_of	9	5
+Version_of	6	4;Citation_of	7	4
+PlugIn_of	2	1;Citation_of	23	2
+Version_of	6	4;Developer_of	8	4;Specification_of	4	10;Specification_of	10	4;Version_of	15	10
+Version_of	3	2;Developer_of	5	2
+Developer_of	10	5;Specification_of	5	14;Specification_of	14	5;Version_of	19	5;Developer_of	26	5;Version_of	6	14;Release_of	12	14
+Version_of	6	5;Developer_of	8	5
+Developer_of	24	25;Version_of	28	25
+Version_of	16	14;Developer_of	18	14
+Version_of	15	10;Developer_of	17	10
+Developer_of	12	10;Citation_of	32	28
+Version_of	18	11;Developer_of	20	11
+Version_of	7	5;Developer_of	9	5
+Citation_of	12	10;PlugIn_of	10	14
+Extension_of	9	7;Version_of	10	7;Developer_of	12	7
+Extension_of	21	20;Developer_of	25	20
+Developer_of	5	6;Version_of	7	6;Developer_of	10	6
+Version_of	7	5;Developer_of	9	5
+
+Developer_of	14	15;Developer_of	18	15
+Version_of	30	29
+Developer_of	4	5;Developer_of	7	5
+Abbreviation_of	14	7;Version_of	16	7
+Version_of	30	29;Developer_of	35	29
+Version_of	22	20;Developer_of	24	20
+Version_of	10	6;Developer_of	12	6
+Extension_of	73	72;Version_of	76	72;Developer_of	78	72
+Extension_of	1	0;Version_of	2	0
+Version_of	8	7;Extension_of	9	7;Developer_of	11	7;Version_of	18	17;Citation_of	22	20
+Version_of	9	6;Citation_of	10	6
+Release_of	5	4;Citation_of	10	4
+Version_of	7	6;Developer_of	9	6
+Developer_of	6	9;Citation_of	13	12
+Version_of	9	8;Version_of	19	17
+Version_of	17	11;Developer_of	19	11
+Developer_of	5	6
+Specification_of	5	7;Specification_of	7	5;Version_of	13	7;Developer_of	19	7;Version_of	28	25;Developer_of	30	25
+Version_of	6	5;Version_of	9	5;Developer_of	11	5
+Version_of	7	5;Developer_of	9	5
+Version_of	14	7;Developer_of	20	7
+Developer_of	7	8;URL_of	10	8;Version_of	14	13;URL_of	16	13
+Developer_of	6	7;Version_of	9	7;Developer_of	11	7
+Developer_of	6	1;Citation_of	21	1
+Version_of	11	7
+Abbreviation_of	24	20;Citation_of	26	20;Citation_of	42	38
+Citation_of	5	4;Citation_of	15	14;Citation_of	18	24;Citation_of	21	20;Citation_of	25	24
+Version_of	10	8;Developer_of	13	8;URL_of	15	8
+Version_of	7	5;Developer_of	9	5
+Citation_of	5	3;Version_of	30	29;Citation_of	32	29;Version_of	47	29;Citation_of	49	29;Version_of	84	29;Version_of	59	57;Citation_of	63	57;Citation_of	70	68
+Extension_of	6	5;Version_of	12	5
+Developer_of	0	1;Version_of	2	1
+Version_of	45	44;Developer_of	47	44
+Version_of	18	15;Developer_of	20	15
+Version_of	18	15;Developer_of	20	15
+Developer_of	6	4;Developer_of	11	9
+Version_of	11	9;Developer_of	13	9
+Developer_of	5	6;Version_of	11	6;Developer_of	17	6;Release_of	21	6

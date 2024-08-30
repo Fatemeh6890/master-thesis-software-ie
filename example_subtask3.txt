@@ -1,0 +1,68 @@
+# Example Sentence 27:
+
+The DriverNet algorithm is implemented in a publicly available R package [31] .
+0   1         2         3  4           5  6 7        8         9 10      11   12
+
+Entity:
+[Plugin:"DriverNet"] 
+[ProgrammingEnvironment: "R"]
+
+Attribute:
+[Citation: "[31]"]
+
+Relation:
+format in file: "Citation_of	11	9"
+11 -> Citation_of -> 9
+"[31]" - (Citation_of) -> "R"
+
+[Citation: "[31]"] - (Citation_of) -> [ProgrammingEnvironment: "R"]
+
+# Simple Idea
+
+Input: 
+sent = "The DriverNet algorithm is implemented in a publicly available R package [31] ."
+[Plugin:"DriverNet"] 
+[ProgrammingEnvironment: "R"]
+[Citation: "[31]"]
+
+## Ground truth for relations:
+
+            DriverNet       R               [31]
+DriverNet   X!              X               X
+R           X               X!              (Citation_of-1)
+[31]        X               Citation_of     X!
+
+For three annotations (entity+attribute) we have 9 relation candidates.
+Three of them are "self relation". six candidates need prediction.
+Template:
+"sent <SEP> candidate_subject <SEP> candidate_object"
+
+Six Real Model inputs (X):
+1. "The DriverNet algorithm is implemented in a publicly available R package [31] .<SEP> DriverNet <SEP> R"
+2. "The DriverNet algorithm is implemented in a publicly available R package [31] .<SEP> DriverNet <SEP> [31]"
+3. ...
+..
+6. "The DriverNet algorithm is implemented in a publicly available R package [31] .<SEP> [31] <SEP> R"
+
+Six expected Outputs (y):
+1. "nil"
+2. "nil"
+.
+.
+6. "Citation_of"
+
+
+
+
+
+
+Output simple:
+
+
+O B-PlugIn_Creation O O O O O O O B-ProgrammingEnvironment_Usage O B-Citation O
+
+# Use Additional Information
+ * not each Entity type could have any relation (e.g, Citation -> version_of does not make sense)
+ * Define signature as triple (subject_entity_type, relation_type, object_entity_type)
+   * Which signatures are allowed and which are not valid?
+
